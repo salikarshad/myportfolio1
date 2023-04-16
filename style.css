@@ -1,0 +1,90 @@
+.body{
+    font-family:Poppins;
+    margin: 0px;
+    padding: 0px;
+}
+.row{
+    overflow: hidden;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.logo{
+    font-size: large;
+    color: blueviolet;
+    font-weight: bold;
+    float: left;
+    list-style: none;
+}
+.navbar{
+    font-size: large;
+    font-weight: bold;
+    float: right;
+    font-display: inlin;
+    margin-top: 25px;
+    
+}
+.navbar > li{
+    display: inline;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+/* navbar the end */
+.banner{
+    font-weight: bold;
+    font-size: 40px;
+    float: left;
+    margin-top: 30px;
+}
+.banner{
+    float:left;
+    margin-top: 30px;
+    font-size: 44px;
+    font-weight: bold;
+}
+.spa{
+    color: blueviolet;
+}
+.banner > button{
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    border-radius: 4px;
+    color: #E5E4E2;
+    background-color: blueviolet;
+    border: none;
+    font-size: 20px;
+}
+.img > img{
+    border: 1px solid;
+    border-radius: 280px;
+    height: 280px;
+    width: 280px;
+    float: right;
+    margin-top: 45px;
+    box-shadow: 
+        2px 4px 10px grey,
+        -2px -4px 10px grey;
+
+}
+/* banner the end */
+.icon{
+    margin: 100px 0px;
+    list-style: none;
+    padding: 0px;
+
+}
+.icon > li{
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+.icon > li > i{
+    font-size: large;
+
+}
+
+/* icon the end */
